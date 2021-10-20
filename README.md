@@ -1,4 +1,2 @@
-# code
-repository for writting a code
-how do i know about a code.
-i am trying to learn bfs,dfs
+# Depression-and-happiness-factor-dataset-analysis-by-using-various-machine-learning-and-deep-learning
+In this project a depression & happiness factor dataset has been built and analysed by machine & deep ;earning algorithm 
